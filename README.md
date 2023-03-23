@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=coolxinxin&repo=ClassResGuard)](https://github.com/coolxinxin/ClassResGuard)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolxinxin&layout=compact)](https://github.com/coolxinxin/ClassResGuard)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolxinxin&layout=compact)](https://github.com/coolxinxin)
 
 ![](https://github-readme-stats.vercel.app/api?username=coolxinxin&count_private=true&show_icons=true) 
